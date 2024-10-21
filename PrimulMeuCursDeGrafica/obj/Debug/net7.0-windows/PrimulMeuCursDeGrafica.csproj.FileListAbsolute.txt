@@ -1,0 +1,16 @@
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grigore copy\PrimulMeuCursDeGrafica\bin\Debug\net7.0-windows\PrimulMeuCursDeGrafica.exe
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grigore copy\PrimulMeuCursDeGrafica\bin\Debug\net7.0-windows\PrimulMeuCursDeGrafica.deps.json
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grigore copy\PrimulMeuCursDeGrafica\bin\Debug\net7.0-windows\PrimulMeuCursDeGrafica.runtimeconfig.json
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grigore copy\PrimulMeuCursDeGrafica\bin\Debug\net7.0-windows\PrimulMeuCursDeGrafica.dll
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grigore copy\PrimulMeuCursDeGrafica\bin\Debug\net7.0-windows\PrimulMeuCursDeGrafica.pdb
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grigore copy\PrimulMeuCursDeGrafica\obj\Debug\net7.0-windows\PrimulMeuCursDeGrafica.Form1.resources
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grigore copy\PrimulMeuCursDeGrafica\obj\Debug\net7.0-windows\PrimulMeuCursDeGrafica.csproj.GenerateResource.cache
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grigore copy\PrimulMeuCursDeGrafica\obj\Debug\net7.0-windows\PrimulMeuCursDeGrafica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grigore copy\PrimulMeuCursDeGrafica\obj\Debug\net7.0-windows\PrimulMeuCursDeGrafica.AssemblyInfoInputs.cache
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grigore copy\PrimulMeuCursDeGrafica\obj\Debug\net7.0-windows\PrimulMeuCursDeGrafica.AssemblyInfo.cs
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grigore copy\PrimulMeuCursDeGrafica\obj\Debug\net7.0-windows\PrimulMeuCursDeGrafica.csproj.CoreCompileInputs.cache
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grigore copy\PrimulMeuCursDeGrafica\obj\Debug\net7.0-windows\PrimulMeuCursDeGrafica.dll
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grigore copy\PrimulMeuCursDeGrafica\obj\Debug\net7.0-windows\refint\PrimulMeuCursDeGrafica.dll
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grigore copy\PrimulMeuCursDeGrafica\obj\Debug\net7.0-windows\PrimulMeuCursDeGrafica.pdb
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grigore copy\PrimulMeuCursDeGrafica\obj\Debug\net7.0-windows\PrimulMeuCursDeGrafica.genruntimeconfig.cache
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grigore copy\PrimulMeuCursDeGrafica\obj\Debug\net7.0-windows\ref\PrimulMeuCursDeGrafica.dll

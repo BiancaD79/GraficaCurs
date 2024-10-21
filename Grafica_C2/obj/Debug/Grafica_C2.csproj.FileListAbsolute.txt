@@ -1,0 +1,10 @@
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grigore copy\Grafica_C2\bin\Debug\Grafica_C2.exe.config
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grigore copy\Grafica_C2\bin\Debug\Grafica_C2.exe
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grigore copy\Grafica_C2\bin\Debug\Grafica_C2.pdb
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grigore copy\Grafica_C2\obj\Debug\Grafica_C2.csproj.AssemblyReference.cache
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grigore copy\Grafica_C2\obj\Debug\Grafica_C2.Form1.resources
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grigore copy\Grafica_C2\obj\Debug\Grafica_C2.Properties.Resources.resources
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grigore copy\Grafica_C2\obj\Debug\Grafica_C2.csproj.GenerateResource.cache
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grigore copy\Grafica_C2\obj\Debug\Grafica_C2.csproj.CoreCompileInputs.cache
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grigore copy\Grafica_C2\obj\Debug\Grafica_C2.exe
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grigore copy\Grafica_C2\obj\Debug\Grafica_C2.pdb
