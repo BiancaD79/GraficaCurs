@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrimulMeuCursDeGrafica", "P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grafica_C2", "..\Grafica_C2\Grafica_C2.csproj", "{97858BD7-30B1-400E-AC3A-9A7A7B619018}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageProcessing", "..\ImageProcessing\ImageProcessing.csproj", "{12A32026-F832-4B69-88BB-FFA5DDFF7153}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{97858BD7-30B1-400E-AC3A-9A7A7B619018}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97858BD7-30B1-400E-AC3A-9A7A7B619018}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97858BD7-30B1-400E-AC3A-9A7A7B619018}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12A32026-F832-4B69-88BB-FFA5DDFF7153}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12A32026-F832-4B69-88BB-FFA5DDFF7153}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12A32026-F832-4B69-88BB-FFA5DDFF7153}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12A32026-F832-4B69-88BB-FFA5DDFF7153}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
