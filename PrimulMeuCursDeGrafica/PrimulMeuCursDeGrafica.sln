@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grafica_C2", "..\Grafica_C2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageProcessing", "..\ImageProcessing\ImageProcessing.csproj", "{12A32026-F832-4B69-88BB-FFA5DDFF7153}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2D3D", "..\2D3D\2D3D.csproj", "{DDB62529-A2A6-4E9F-9BE7-6FFA257BEDC4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{12A32026-F832-4B69-88BB-FFA5DDFF7153}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12A32026-F832-4B69-88BB-FFA5DDFF7153}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12A32026-F832-4B69-88BB-FFA5DDFF7153}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDB62529-A2A6-4E9F-9BE7-6FFA257BEDC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDB62529-A2A6-4E9F-9BE7-6FFA257BEDC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDB62529-A2A6-4E9F-9BE7-6FFA257BEDC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDB62529-A2A6-4E9F-9BE7-6FFA257BEDC4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

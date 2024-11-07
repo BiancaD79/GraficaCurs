@@ -1,0 +1,10 @@
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\2D3D\bin\Debug\2D3D.exe.config
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\2D3D\bin\Debug\2D3D.exe
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\2D3D\bin\Debug\2D3D.pdb
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\2D3D\obj\Debug\2D3D.csproj.AssemblyReference.cache
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\2D3D\obj\Debug\_2D3D.Form1.resources
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\2D3D\obj\Debug\_2D3D.Properties.Resources.resources
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\2D3D\obj\Debug\2D3D.csproj.GenerateResource.cache
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\2D3D\obj\Debug\2D3D.csproj.CoreCompileInputs.cache
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\2D3D\obj\Debug\2D3D.exe
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\2D3D\obj\Debug\2D3D.pdb
