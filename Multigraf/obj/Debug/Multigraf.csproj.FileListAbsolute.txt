@@ -1,0 +1,10 @@
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\Multigraf\bin\Debug\Multigraf.exe.config
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\Multigraf\bin\Debug\Multigraf.exe
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\Multigraf\bin\Debug\Multigraf.pdb
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\Multigraf\obj\Debug\Multigraf.csproj.AssemblyReference.cache
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\Multigraf\obj\Debug\Multigraf.Form1.resources
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\Multigraf\obj\Debug\Multigraf.Properties.Resources.resources
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\Multigraf\obj\Debug\Multigraf.csproj.GenerateResource.cache
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\Multigraf\obj\Debug\Multigraf.csproj.CoreCompileInputs.cache
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\Multigraf\obj\Debug\Multigraf.exe
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\Multigraf\obj\Debug\Multigraf.pdb
