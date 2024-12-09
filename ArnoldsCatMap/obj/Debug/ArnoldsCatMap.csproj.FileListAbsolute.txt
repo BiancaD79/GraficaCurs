@@ -1,0 +1,10 @@
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\ArnoldsCatMap\bin\Debug\ArnoldsCatMap.exe.config
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\ArnoldsCatMap\bin\Debug\ArnoldsCatMap.exe
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\ArnoldsCatMap\bin\Debug\ArnoldsCatMap.pdb
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\ArnoldsCatMap\obj\Debug\ArnoldsCatMap.csproj.AssemblyReference.cache
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\ArnoldsCatMap\obj\Debug\ArnoldsCatMap.Form1.resources
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\ArnoldsCatMap\obj\Debug\ArnoldsCatMap.Properties.Resources.resources
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\ArnoldsCatMap\obj\Debug\ArnoldsCatMap.csproj.GenerateResource.cache
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\ArnoldsCatMap\obj\Debug\ArnoldsCatMap.csproj.CoreCompileInputs.cache
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\ArnoldsCatMap\obj\Debug\ArnoldsCatMap.exe
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\ArnoldsCatMap\obj\Debug\ArnoldsCatMap.pdb

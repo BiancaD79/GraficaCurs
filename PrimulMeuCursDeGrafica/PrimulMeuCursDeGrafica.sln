@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2D3D", "..\2D3D\2D3D.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multigraf", "..\Multigraf\Multigraf.csproj", "{B88A5923-52E6-4C80-B32D-5980435E3CDA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoligonIntersectFill", "..\PoligonIntersectFill\PoligonIntersectFill.csproj", "{5B3EE86F-E66B-4818-AAA2-EE293B063DE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArnoldsCatMap", "..\ArnoldsCatMap\ArnoldsCatMap.csproj", "{FE2CF690-0810-4B1A-8E63-D43F67A4E99A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{B88A5923-52E6-4C80-B32D-5980435E3CDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B88A5923-52E6-4C80-B32D-5980435E3CDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B88A5923-52E6-4C80-B32D-5980435E3CDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B3EE86F-E66B-4818-AAA2-EE293B063DE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B3EE86F-E66B-4818-AAA2-EE293B063DE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B3EE86F-E66B-4818-AAA2-EE293B063DE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B3EE86F-E66B-4818-AAA2-EE293B063DE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE2CF690-0810-4B1A-8E63-D43F67A4E99A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE2CF690-0810-4B1A-8E63-D43F67A4E99A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE2CF690-0810-4B1A-8E63-D43F67A4E99A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE2CF690-0810-4B1A-8E63-D43F67A4E99A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

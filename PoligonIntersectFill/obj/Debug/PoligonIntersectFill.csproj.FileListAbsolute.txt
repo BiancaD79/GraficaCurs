@@ -1,0 +1,10 @@
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\PoligonIntersectFill\bin\Debug\PoligonIntersectFill.exe.config
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\PoligonIntersectFill\bin\Debug\PoligonIntersectFill.exe
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\PoligonIntersectFill\bin\Debug\PoligonIntersectFill.pdb
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\PoligonIntersectFill\obj\Debug\PoligonIntersectFill.csproj.AssemblyReference.cache
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\PoligonIntersectFill\obj\Debug\PoligonIntersectFill.Form1.resources
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\PoligonIntersectFill\obj\Debug\PoligonIntersectFill.Properties.Resources.resources
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\PoligonIntersectFill\obj\Debug\PoligonIntersectFill.csproj.GenerateResource.cache
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\PoligonIntersectFill\obj\Debug\PoligonIntersectFill.csproj.CoreCompileInputs.cache
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\PoligonIntersectFill\obj\Debug\PoligonIntersectFill.exe
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\PoligonIntersectFill\obj\Debug\PoligonIntersectFill.pdb
