@@ -1,0 +1,10 @@
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\Intersectii\bin\Debug\Intersectii.exe.config
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\Intersectii\bin\Debug\Intersectii.exe
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\Intersectii\bin\Debug\Intersectii.pdb
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\Intersectii\obj\Debug\Intersectii.csproj.AssemblyReference.cache
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\Intersectii\obj\Debug\Intersectii.Form1.resources
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\Intersectii\obj\Debug\Intersectii.Properties.Resources.resources
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\Intersectii\obj\Debug\Intersectii.csproj.GenerateResource.cache
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\Intersectii\obj\Debug\Intersectii.csproj.CoreCompileInputs.cache
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\Intersectii\obj\Debug\Intersectii.exe
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\Intersectii\obj\Debug\Intersectii.pdb

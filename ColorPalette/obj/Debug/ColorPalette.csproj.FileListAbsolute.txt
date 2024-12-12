@@ -1,0 +1,10 @@
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\ColorPalette\bin\Debug\ColorPalette.exe.config
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\ColorPalette\bin\Debug\ColorPalette.exe
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\ColorPalette\bin\Debug\ColorPalette.pdb
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\ColorPalette\obj\Debug\ColorPalette.csproj.AssemblyReference.cache
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\ColorPalette\obj\Debug\ColorPalette.Form1.resources
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\ColorPalette\obj\Debug\ColorPalette.Properties.Resources.resources
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\ColorPalette\obj\Debug\ColorPalette.csproj.GenerateResource.cache
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\ColorPalette\obj\Debug\ColorPalette.csproj.CoreCompileInputs.cache
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\ColorPalette\obj\Debug\ColorPalette.exe
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\ColorPalette\obj\Debug\ColorPalette.pdb
