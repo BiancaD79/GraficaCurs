@@ -1,0 +1,10 @@
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\BlatDePizza\bin\Debug\BlatDePizza.exe.config
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\BlatDePizza\bin\Debug\BlatDePizza.exe
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\BlatDePizza\bin\Debug\BlatDePizza.pdb
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\BlatDePizza\obj\Debug\BlatDePizza.csproj.AssemblyReference.cache
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\BlatDePizza\obj\Debug\BlatDePizza.Form1.resources
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\BlatDePizza\obj\Debug\BlatDePizza.Properties.Resources.resources
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\BlatDePizza\obj\Debug\BlatDePizza.csproj.GenerateResource.cache
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\BlatDePizza\obj\Debug\BlatDePizza.csproj.CoreCompileInputs.cache
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\BlatDePizza\obj\Debug\BlatDePizza.exe
+C:\Users\bianc\Documents\Projects\Year 3\Laslo\Grafica\Curs\BlatDePizza\obj\Debug\BlatDePizza.pdb
